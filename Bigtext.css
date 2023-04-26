@@ -1,0 +1,18 @@
+body{
+	background-color: #D1CDE7;
+}
+h1{
+	text-align: center;
+}
+p{
+	text-align: justify;
+	word-spacing: 5px;
+	line-height: 24px;
+	text-indent: 24px;
+}
+figure{
+	border: solid 2px;
+	width: 200px;
+}
+
+

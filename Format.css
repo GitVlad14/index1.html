@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Marck+Script&family=Pacifico&family=Rampart+One&family=Russo+One&display=swap');
+body{
+	background-color: #70C1A1;
+}
+p{
+	font-size: 50px;
+	color: #4D32D3;
+
+}
+.ex1{
+	font-family: cursive;
+	font-weight: 700;
+}
+.ex2{
+	font-family: 'Lobster', cursive;
+	font-style: italic;
+}
+.ex3{
+	font-family: 'Marck Script', cursive;
+	text-transform: lowercase;
+}
+.ex4{
+	font-family: 'Pacifico', cursive;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+.ex5{
+	font-family: 'Rampart One', cursive;
+	text-transform: capitalize;
+}
+.ex6{
+	font-family: 'Russo One', sans-serif;
+	text-transform: revert;
+}
+.ex7{
+	text-shadow: 3px -3px 10px yellow;
+}
+.ex8{
+	text-shadow: 3px 4px 8px hotpink;
+	font-weight: 700;
+}
+.ex9{
+	font-size: 2cm;
+	font-weight: 500;
+	color: yellow;
+	font-family: 'Pacifico', cursive;
+	text-shadow: 4px 4px 10px red, 3px -3px 5px green;
+}
+.ex10{
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-decoration-color: orangered;
+	text-underline-position: under;
+}
+.ex11{
+	text-decoration: underline;
+	text-decoration-style: double;
+	text-decoration-color: springgreen;
+	text-underline-position: under;
+}
+.ex12{
+	font-family: 'Rampart One', cursive;
+	text-emphasis: filled red;
+}	
+.ex13{
+	font-family: 'Rampart One', cursive;
+	text-emphasis: triangle #d55;
+}
+.ex14{
+	text-emphasis: 'x' purple;
+}
+.ex15{
+	text-emphasis: filled double-circle pink;
+}

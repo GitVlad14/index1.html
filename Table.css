@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@700&display=swap');
+body{
+	background-color: #6D9BF5;
+}
+div{
+	font-size: 24px;
+	color: firebrick;
+	font-family: 'Stalinist One', cursive;
+	background-color: yellowgreen;
+	margin: 10px;
+	padding: 12px;
+	text-align: center;
+}
+p{
+	font-size: 24px;
+	border: solid 30px;
+	width: 75%;
+	text-align: center;
+	border-image: linear-gradient(red, yellow) 30;	
+}
+table{
+	border: double 2px #F55822;
+	width: 75%;
+}
+th,td{
+	border: solid 1px #B6F109;
+	width: 30%;
+	height: 35px;
+	font-size: 28px;
+	text-align: center;
+}
+tr:hover{
+	background-image: url(https://i.pinimg.com/originals/6d/c8/f1/6dc8f11334c7e1564bde781d84f9dfb7.gif);
+}
+td:hover{
+	text-align: right;
+	font-family: 'Rubik Mono One', sans-serif;
+}
+tr:nth-child(even){
+	background-color: #EEEC80;
+}
+tr:nth-child(odd){
+	background-color: #EA4CB5;
+}
+caption{
+	font-family: 'El Messiri', sans-serif;
+	font-size: 28px;
+	color: #220F73;
+}
+
